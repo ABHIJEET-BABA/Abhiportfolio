@@ -542,7 +542,7 @@ section {
 --------------------------------------------------------------*/
 
 #portfolio{
-  margin-left:-10rem;
+  margin-left:-rem;
 }
 
 .portfolio .portfolio-item {
