@@ -1073,6 +1073,12 @@ section {
     display: block !important;
   }
 
+  #skills{
+    margin-left:5rem;
+    
+  }
+    
+
   .breadcrumbs ol {
     display: block;
   }
